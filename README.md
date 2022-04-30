@@ -1,6 +1,6 @@
 <div align="center">
 
-# StudioWebb
+# StudioWeb
 </div>
 
 ### Clonare il repository
@@ -27,7 +27,7 @@ virtualenv envname
 
 ```
 
---> Activate the virtual environment :
+--> Finalmente attiva l'ambiente virtuale :
 ```bash
 envname\scripts\activate
 
