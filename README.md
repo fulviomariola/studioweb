@@ -27,9 +27,27 @@ virtualenv envname
 
 ```
 
---> Finalmente attiva l'ambiente virtuale :
+--> Ed ora attiva l'ambiente virtuale :
 ```bash
 envname\scripts\activate
 
 ```
 
+
+--> Install the requirements :
+```bash
+pip install -r requirements.txt
+
+```
+
+#
+
+### Running the App
+
+--> To run the App, we use :
+```bash
+python manage.py runserver
+
+```
+
+> ⚠ Una volta attivato il server di sviluppo inizia da qui http://127.0.0.1:8000/
