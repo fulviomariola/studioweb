@@ -51,3 +51,27 @@ python manage.py runserver
 ```
 
 > ⚠ Una volta attivato il server di sviluppo inizia da qui http://127.0.0.1:8000/
+
+
+#
+
+### App Preview :
+
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Pagina Home
+</p>
+<img src="https://www.eclettici.it/img/PythonStudioWeb/django-home.png">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Anteprima Camera Conversazione
+</p>
+<img src="https://www.eclettici.it/img/PythonStudioWeb/django-interno-stanza.png">  
+</td>
+</table>
